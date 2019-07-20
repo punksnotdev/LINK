@@ -1,0 +1,27 @@
+{
+  "name": "@punksnotdev/link",
+  "version": "0.0.1",
+  "description": "Abstract polyglot",
+  "main": "LINK.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/punksnotdev/LINK.git"
+  },
+  "keywords": [
+    "music",
+    "osc",
+    "protocol",
+    "manager",
+    "realtime",
+    "supercollider"
+  ],
+  "author": "furenku",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/punksnotdev/LINK/issues"
+  },
+  "homepage": "https://github.com/punksnotdev/LINK#readme"
+}
